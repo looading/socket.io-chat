@@ -10,4 +10,10 @@ Then
 ```bash
 node app.js
 ```
+
+in your brower
+```bash
+localhost:3000
+```
+
 Finished
